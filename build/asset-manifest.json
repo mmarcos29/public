@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/public/static/css/main.470a7617.chunk.css",
+    "main.js": "/public/static/js/main.d08d2fb1.chunk.js",
+    "main.js.map": "/public/static/js/main.d08d2fb1.chunk.js.map",
+    "runtime-main.js": "/public/static/js/runtime-main.68726571.js",
+    "runtime-main.js.map": "/public/static/js/runtime-main.68726571.js.map",
+    "static/js/2.c08c2013.chunk.js": "/public/static/js/2.c08c2013.chunk.js",
+    "static/js/2.c08c2013.chunk.js.map": "/public/static/js/2.c08c2013.chunk.js.map",
+    "index.html": "/public/index.html",
+    "precache-manifest.cbcb306437c18e4e1e9c5a45030ccd5c.js": "/public/precache-manifest.cbcb306437c18e4e1e9c5a45030ccd5c.js",
+    "service-worker.js": "/public/service-worker.js",
+    "static/css/main.470a7617.chunk.css.map": "/public/static/css/main.470a7617.chunk.css.map",
+    "static/js/2.c08c2013.chunk.js.LICENSE.txt": "/public/static/js/2.c08c2013.chunk.js.LICENSE.txt",
+    "static/media/logo-revolution.png": "/public/static/media/logo-revolution.a6a68097.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68726571.js",
+    "static/js/2.c08c2013.chunk.js",
+    "static/css/main.470a7617.chunk.css",
+    "static/js/main.d08d2fb1.chunk.js"
+  ]
+}

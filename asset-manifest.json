@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/www.conect.app.br/static/css/main.004f6cf0.chunk.css",
-    "main.js": "/www.conect.app.br/static/js/main.66f8c58a.chunk.js",
-    "main.js.map": "/www.conect.app.br/static/js/main.66f8c58a.chunk.js.map",
-    "runtime-main.js": "/www.conect.app.br/static/js/runtime-main.34de489b.js",
-    "runtime-main.js.map": "/www.conect.app.br/static/js/runtime-main.34de489b.js.map",
-    "static/js/2.8e3c5817.chunk.js": "/www.conect.app.br/static/js/2.8e3c5817.chunk.js",
-    "static/js/2.8e3c5817.chunk.js.map": "/www.conect.app.br/static/js/2.8e3c5817.chunk.js.map",
-    "index.html": "/www.conect.app.br/index.html",
-    "precache-manifest.9996f573234d8b5b903be7d6f75a650d.js": "/www.conect.app.br/precache-manifest.9996f573234d8b5b903be7d6f75a650d.js",
-    "service-worker.js": "/www.conect.app.br/service-worker.js",
-    "static/css/main.004f6cf0.chunk.css.map": "/www.conect.app.br/static/css/main.004f6cf0.chunk.css.map",
-    "static/js/2.8e3c5817.chunk.js.LICENSE.txt": "/www.conect.app.br/static/js/2.8e3c5817.chunk.js.LICENSE.txt",
-    "static/media/logo-revolution.png": "/www.conect.app.br/static/media/logo-revolution.a6a68097.png"
+    "main.css": "/static/css/main.1f80d060.chunk.css",
+    "main.js": "/static/js/main.c0beef1e.chunk.js",
+    "main.js.map": "/static/js/main.c0beef1e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7f01eb7f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7f01eb7f.js.map",
+    "static/js/2.a34303ca.chunk.js": "/static/js/2.a34303ca.chunk.js",
+    "static/js/2.a34303ca.chunk.js.map": "/static/js/2.a34303ca.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.120873ba4c3aff280a7a4def9aedd79a.js": "/precache-manifest.120873ba4c3aff280a7a4def9aedd79a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1f80d060.chunk.css.map": "/static/css/main.1f80d060.chunk.css.map",
+    "static/js/2.a34303ca.chunk.js.LICENSE.txt": "/static/js/2.a34303ca.chunk.js.LICENSE.txt",
+    "static/media/agendar cliente.png": "/static/media/agendar cliente.4523e44f.png",
+    "static/media/atender cliente.png": "/static/media/atender cliente.c8c4fc47.png",
+    "static/media/cadastrar clientes.png": "/static/media/cadastrar clientes.a08ac5c1.png",
+    "static/media/efetivar proposta.png": "/static/media/efetivar proposta.7b03dfac.png",
+    "static/media/logo-revolution.png": "/static/media/logo-revolution.a6a68097.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.34de489b.js",
-    "static/js/2.8e3c5817.chunk.js",
-    "static/css/main.004f6cf0.chunk.css",
-    "static/js/main.66f8c58a.chunk.js"
+    "static/js/runtime-main.7f01eb7f.js",
+    "static/js/2.a34303ca.chunk.js",
+    "static/css/main.1f80d060.chunk.css",
+    "static/js/main.c0beef1e.chunk.js"
   ]
 }

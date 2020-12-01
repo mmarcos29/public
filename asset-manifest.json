@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.80d26fab.chunk.css",
+    "main.css": "/static/css/main.968898bd.chunk.css",
     "main.js": "/static/js/main.e2fc4d23.chunk.js",
     "main.js.map": "/static/js/main.e2fc4d23.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7f01eb7f.js",
@@ -8,9 +8,9 @@
     "static/js/2.847c39ed.chunk.js": "/static/js/2.847c39ed.chunk.js",
     "static/js/2.847c39ed.chunk.js.map": "/static/js/2.847c39ed.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.86e5e7d393ef1e9265d908b20bcbe250.js": "/precache-manifest.86e5e7d393ef1e9265d908b20bcbe250.js",
+    "precache-manifest.10a7ca958e804cdd25ec0b2fb6b6a65d.js": "/precache-manifest.10a7ca958e804cdd25ec0b2fb6b6a65d.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.80d26fab.chunk.css.map": "/static/css/main.80d26fab.chunk.css.map",
+    "static/css/main.968898bd.chunk.css.map": "/static/css/main.968898bd.chunk.css.map",
     "static/js/2.847c39ed.chunk.js.LICENSE.txt": "/static/js/2.847c39ed.chunk.js.LICENSE.txt",
     "static/media/agendar cliente.png": "/static/media/agendar cliente.4523e44f.png",
     "static/media/atender cliente.png": "/static/media/atender cliente.c8c4fc47.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.7f01eb7f.js",
     "static/js/2.847c39ed.chunk.js",
-    "static/css/main.80d26fab.chunk.css",
+    "static/css/main.968898bd.chunk.css",
     "static/js/main.e2fc4d23.chunk.js"
   ]
 }
